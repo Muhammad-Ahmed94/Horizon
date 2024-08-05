@@ -1,0 +1,5 @@
+.hover-button > * {
+    &:hover {
+        color: rgb(173, 170, 170);
+    }
+}
